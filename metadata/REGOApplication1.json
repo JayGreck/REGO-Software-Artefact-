@@ -1,0 +1,19 @@
+[
+    {
+        "Generating_Station_Agent_Group": "Copyhold Works (Lakeside)",
+        "Commissioning_Date": "11/23/2009",
+        "Total_Installed_Generating_Capacity": 42000,
+        "Scheme": "REGO",
+        "Country": "England",
+        "Requested_Amt": 9698,
+        "Technology_Group": "Biodegradable",
+        "Output_Period": "01/07/2019 - 31/07/2019",
+        "Status_Date": "07/04/2020",
+        "Company_Registration_Number": 27336523,
+        "Accreditation_No.": "G00863MWEN",
+        "Start_Certificate_No.": "G00863MWEN0000001110010719310719GEN",
+        "End_Certificate_No.": "G00863MWEN0000010807010719310719GEN",
+        "MWh_Per_Certificate": 1,
+        "Current_Holder_Address": "Gustav Mahlerlaan 1009Amsterdam1082 MKOverseas - Netherlands"
+       }
+]

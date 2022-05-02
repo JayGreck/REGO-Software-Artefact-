@@ -1,0 +1,19 @@
+[
+    {
+        "Generating_Station_Agent_Group": "Canewdon CIC",
+        "Commissioning_Date": "06/10/2016",
+        "Total_Installed_Generating_Capacity": 4989.6,
+        "Scheme": "REGO",
+        "Country": "England",
+        "Requested_Amt": 4340,
+        "Technology_Group": "Photovoltaic",
+        "Output_Period": "01/04/2019 - 31/12/2019",
+        "Status_Date": "07/04/2020",
+        "Company_Registration_Number": 27336523,
+        "Accreditation_No.": "G07578PVEN",
+        "Start_Certificate_No.": "G07578PVEN0000000000010419311219GEN",
+        "End_Certificate_No.": "G07578PVEN0000004339010419311219GEN",
+        "MWh_Per_Certificate": 1,
+        "Current_Holder_Address": "Gustav Mahlerlaan 1009Amsterdam1082 MKOverseas - Netherlands"
+       }
+]

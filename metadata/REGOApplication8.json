@@ -1,0 +1,19 @@
+[
+    {
+        "Generating_Station_Agent_Group": "Drax Power Station (REGO)",
+        "Commissioning_Date": "01/01/1974",
+        "Total_Installed_Generating_Capacity": 4065000,
+        "Scheme": "REGO",
+        "Country": "England",
+        "Requested_Amt": 4000,
+        "Technology_Group": "Biomass",
+        "Output_Period": "Jan-2020",
+        "Status_Date": "06/02/2020",
+        "Company_Registration_Number": 27336523,
+        "Accreditation_No.": "G01821BWEN",
+        "Start_Certificate_No.": "G01821BWEN0001021577010120310120GEN",
+        "End_Certificate_No.": "G01821BWEN0001361576010120310120GEN",
+        "MWh_Per_Certificate": 1,
+        "Current_Holder_Address": "Gustav Mahlerlaan 1009Amsterdam1082 MKOverseas - Netherlands"
+       }
+]

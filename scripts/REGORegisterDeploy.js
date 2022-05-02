@@ -16,10 +16,10 @@ async function main() {
   // We get the contract to deploy
   const REGORegister = await hre.ethers.getContractFactory("REGORegsiter");
   const register = await REGORegister.deploy();
+  console.log(`REGO Register Contract Deployed to ${register.address}`);
 
   await register.deployed();
 
-  console.log("REGO Register Deployed To:", register.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere

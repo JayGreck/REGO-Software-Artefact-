@@ -12,6 +12,8 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   }
 });
 
+const {ALCHEMY_URL, PRIVATE_KEY} = process.env;
+
 // You need to export an object to set up your config
 // Go to https://hardhat.org/config/ to learn more
 
@@ -23,12 +25,12 @@ module.exports = {
   paths: {
     artifacts: './src/artifacts',
   },
-  defaultNetwork: "ropsten",
+  defaultNetwork: "rinkeby",
   networks: {
-    hardhat: {
-      // chainId: 1337,
-    },
-    ropsten: {
+    // hardhat: {
+    //   // chainId: 1337,
+    // },
+    rinkeby: {
       url: ALCHEMY_URL,
       accounts: [`0x${PRIVATE_KEY}`]
     }
